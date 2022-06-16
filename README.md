@@ -1,2 +1,2 @@
 # Cab-Fare-Prediction
-An App which is used to estimate the price of Cab
+A website which is used to estimate the price of Cab using Machine learning
